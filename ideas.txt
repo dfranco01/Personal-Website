@@ -1,4 +1,0 @@
-- display who I am
-- My passion for tech
-- my mission statement
-- blog of projects I built
