@@ -9,9 +9,12 @@ body{
     min-height: 100vh;
 }
 
+h1, h2, h3, p{
+    color: white;
+}
+
 h1{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color:white;
 }
 
 h3{
