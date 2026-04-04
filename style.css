@@ -52,6 +52,14 @@ img, p, h1, h3, h2{
     margin-left: 7.5%;
 }
 
+.blog-link{
+    color: red;
+}
+
+.blog-link:hover{
+    color:maroon;
+}
+
 @media (min-width:550px) {
     #container{
     display: grid;
